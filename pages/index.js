@@ -1,5 +1,5 @@
  function Home() {
-    return <h1>Isso é muito massa</h1>
+    return <h1>My battles will be rewarded and my God is always present in my struggles!</h1>
  }
 
  export default Home;
