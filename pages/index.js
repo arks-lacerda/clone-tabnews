@@ -10,12 +10,4 @@ function Home() {
   );
 }
 
-function test() {
-  console.log("test");
-}
-
-function autoSave() {
-  console.log("Auto Save disabled");
-}
-
 export default Home;
