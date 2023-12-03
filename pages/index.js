@@ -2,9 +2,9 @@ function Home() {
   return (
     <>
       <h1>
-        Leleo e Ana Luiza!
+        Arks.dev.br!
       </h1>
-      <p>Dois Chucrutinhos forever! Dê uma risadinha!</p>
+      <p>Um novo impacto vai acontecer!</p>
     </>
   );
 }
